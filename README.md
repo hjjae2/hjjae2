@@ -1,4 +1,4 @@
-<div align="center"><img width=100 height=100 src="https://github.githubassets.com/images/mona-whisper.gif" /></div>
+<div align="center"><img width=100 height=100 src="https://github.githubassets.com/images/mona-loading-default.gif" /></div>
 
 <!--
 **hjjae2/hjjae2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
